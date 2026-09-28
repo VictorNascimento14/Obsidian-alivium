@@ -31,3 +31,4 @@ Barra de leitura no `toolbar` (gruda com o cabeçalho); ícone de concluído com
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-014-leitura]] — criada.
+- [[2026-09-28-pr-015-salvos]] — botão de coração (salvar).
