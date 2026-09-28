@@ -7,7 +7,7 @@ pr: 16
 url: https://github.com/VictorNascimento14/Alivium/pull/16
 branch: feat/jornadas-lista
 tags: [pr, frontend, jornadas]
-status: aberto
+status: merged
 ---
 
 # PR #16 — feat(jornadas): lista de jornadas com andamento
