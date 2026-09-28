@@ -7,7 +7,7 @@ pr: 21
 url: https://github.com/VictorNascimento14/Alivium/pull/21
 branch: fix/calendario-mes
 tags: [pr, frontend, design, bug]
-status: aberto
+status: merged
 ---
 
 # PR #21 — fix(ui): mês do calendário com só a primeira letra maiúscula
