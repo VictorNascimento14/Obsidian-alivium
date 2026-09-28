@@ -19,6 +19,8 @@ A fronteira entre as telas e a persistência. Decisão: [[ADR-001-frontend-prime
 |---|---|
 | `src/dados/tipos.ts` | domínio: usuário, categoria, conteúdo, jornada, etapa, check-in, diário, progresso |
 | `src/dados/sementes.ts` | estado de um navegador novo; contas de demonstração |
+| `src/dados/repositorio.ts` | estado em memória + `localStorage` (`alivium-dados-v1`); `atualizar`, `useEstado` |
+| `src/dados/repositorio.test.ts` | integridade das sementes e contrato do repositório |
 
 ## Comportamento
 
@@ -29,3 +31,4 @@ A fronteira entre as telas e a persistência. Decisão: [[ADR-001-frontend-prime
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-007-dominio-e-sementes]] — tipos do domínio e sementes.
+- [[2026-09-28-pr-008-repositorio-local]] — repositório local, sincronização entre abas, testes.

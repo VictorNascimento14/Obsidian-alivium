@@ -15,8 +15,8 @@ Um PR no `Alivium` ficou vermelho.
 
 ## Passos
 
-1. **"lint · type-check · build"** — rode local o mesmo que falhou: `npm run lint`,
-   `npm run type-check` ou `npm run build`. Corrija e dê push na mesma branch.
+1. **"lint · type-check · test · build"** — rode local o mesmo que falhou: `npm run lint`,
+   `npm run type-check`, `npm test` ou `npm run build`. Corrija e dê push na mesma branch.
 2. **"seção 📓 Documentação"** — o corpo do PR não tem `## 📓 Documentação` com link para
    `VictorNascimento14/Obsidian-alivium`. Escreva a nota no cofre, edite o corpo do PR
    (`gh api repos/:owner/:repo/pulls/NNN -X PATCH -F body=@corpo.md`); o check roda de novo na edição.
