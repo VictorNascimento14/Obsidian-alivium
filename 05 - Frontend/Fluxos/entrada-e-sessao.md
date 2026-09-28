@@ -17,6 +17,9 @@ tags: [funcionalidade, fluxo, autenticacao]
 A sessão vive no `localStorage` ([[CamadaDeDados]]) e sobrevive a recarregar a página; outra aba
 acompanha pela sincronização do repositório.
 
+**Conta nova:** [[Cadastro]] cria a conta e abre a sessão no mesmo passo; a partir daí segue do item 3.
+
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-009-sessao-e-entrar]] — fluxo criado.
+- [[2026-09-28-pr-010-tela-cadastro]] — entrada pelo cadastro.
