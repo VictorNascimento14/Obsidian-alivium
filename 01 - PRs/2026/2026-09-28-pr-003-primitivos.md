@@ -7,7 +7,7 @@ pr: 3
 url: https://github.com/VictorNascimento14/Alivium/pull/3
 branch: ui/primitivos
 tags: [pr, frontend, design]
-status: aberto
+status: merged
 ---
 
 # PR #3 — ui(primitivos): instalar os primitivos do vidro-orgânico
