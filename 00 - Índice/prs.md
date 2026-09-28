@@ -10,3 +10,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 
 | PR | Nota |
 |---|---|
+| #1 | [[2026-09-28-pr-001-scaffolding]] — chore: scaffolding Vite + React + TypeScript + ESLint |
