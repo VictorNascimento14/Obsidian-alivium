@@ -7,7 +7,7 @@ pr: 9
 url: https://github.com/VictorNascimento14/Alivium/pull/9
 branch: feat/sessao-e-entrar
 tags: [pr, frontend, autenticacao]
-status: aberto
+status: merged
 ---
 
 # PR #9 — feat(sessao): sessão local, guardas de rota e tela de entrar
