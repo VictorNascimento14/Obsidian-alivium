@@ -20,3 +20,4 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 ## Fluxos
 
 ## Camada de dados
+- [[CamadaDeDados]] — tipos, sementes e repositório local (`src/dados/`)
