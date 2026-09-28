@@ -29,3 +29,4 @@ barra com `bar-grow`.
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-016-jornadas-lista]] — criada.
+- [[2026-09-28-pr-017-jornada-detalhe]] — cartões viram links para o detalhe.
