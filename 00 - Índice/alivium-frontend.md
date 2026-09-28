@@ -14,6 +14,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
+- [[Primitivos]] — blocos de interface (`src/ui/base/`)
 
 ## Fluxos
 
