@@ -19,3 +19,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #7 | [[2026-09-28-pr-007-dominio-e-sementes]] — feat(dados): tipos do domínio e conteúdo inicial |
 | #8 | [[2026-09-28-pr-008-repositorio-local]] — feat(dados): repositório local com persistência e testes |
 | #9 | [[2026-09-28-pr-009-sessao-e-entrar]] — feat(sessao): sessão local, guardas de rota e tela de entrar |
+| #10 | [[2026-09-28-pr-010-tela-cadastro]] — feat(autenticacao): tela de cadastro com validação e força da senha |

@@ -12,6 +12,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 
 ## Páginas
 - [[Entrar]] — `/entrar`
+- [[Cadastro]] — `/cadastro`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
