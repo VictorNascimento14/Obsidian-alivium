@@ -7,7 +7,7 @@ pr: 12
 url: https://github.com/VictorNascimento14/Alivium/pull/12
 branch: feat/inicio-checkin
 tags: [pr, frontend, inicio]
-status: aberto
+status: merged
 ---
 
 # PR #12 — feat(inicio): saudação personalizada e check-in de humor e dor
