@@ -21,3 +21,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #9 | [[2026-09-28-pr-009-sessao-e-entrar]] — feat(sessao): sessão local, guardas de rota e tela de entrar |
 | #10 | [[2026-09-28-pr-010-tela-cadastro]] — feat(autenticacao): tela de cadastro com validação e força da senha |
 | #11 | [[2026-09-28-pr-011-icone-do-campo]] — fix(ui): ícone do TextField ficava escondido atrás do campo |
+| #12 | [[2026-09-28-pr-012-inicio-checkin]] — feat(inicio): saudação personalizada e check-in de humor e dor |

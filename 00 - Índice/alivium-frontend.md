@@ -13,12 +13,14 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 ## Páginas
 - [[Entrar]] — `/entrar`
 - [[Cadastro]] — `/cadastro`
+- [[Inicio]] — `/`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
 - [[Primitivos]] — blocos de interface (`src/ui/base/`)
 - [[Casca]] — coluna, cabeçalho e barra do celular (`src/ui/shell/`, `src/navegacao.tsx`)
 - [[GuardasDeSessao]] — `ExigeSessao`, `SomenteVisitante`, `LayoutLogado`
+- [[CheckInCard]] — check-in de humor e dor
 
 ## Fluxos
 - [[entrada-e-sessao]] — do `/entrar` ao Início
