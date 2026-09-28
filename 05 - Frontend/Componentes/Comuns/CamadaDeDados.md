@@ -32,3 +32,4 @@ A fronteira entre as telas e a persistência. Decisão: [[ADR-001-frontend-prime
 
 - [[2026-09-28-pr-007-dominio-e-sementes]] — tipos do domínio e sementes.
 - [[2026-09-28-pr-008-repositorio-local]] — repositório local, sincronização entre abas, testes.
+- [[2026-09-28-pr-016-jornadas-lista]] — `src/dados/jornadas.ts` e `mexerProgresso`.

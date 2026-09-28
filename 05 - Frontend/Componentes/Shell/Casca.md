@@ -36,3 +36,4 @@ páginas.
 
 - [[2026-09-28-pr-005-casca]] — casca instalada, com Início.
 - [[2026-09-28-pr-013-biblioteca]] — item Conteúdos na coluna e na barra do celular.
+- [[2026-09-28-pr-016-jornadas-lista]] — item Jornadas na coluna e na barra.
