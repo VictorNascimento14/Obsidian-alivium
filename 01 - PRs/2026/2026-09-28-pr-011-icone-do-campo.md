@@ -7,7 +7,7 @@ pr: 11
 url: https://github.com/VictorNascimento14/Alivium/pull/11
 branch: fix/icone-do-campo
 tags: [pr, frontend, design, bug]
-status: aberto
+status: merged
 ---
 
 # PR #11 — fix(ui): ícone do TextField ficava escondido atrás do campo
