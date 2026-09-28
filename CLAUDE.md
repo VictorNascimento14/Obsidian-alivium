@@ -273,7 +273,7 @@ find . -maxdepth 1 -name '*.md' -not -name 'README.md' -not -name 'CLAUDE.md'
 # (b) espaço em nome de arquivo (as pastas do espinhaço são exceção)
 find . -path ./.git -prune -o -name '* *' -not -name '?? - *' -print
 # (c) nota sem tipo: no frontmatter
-grep -rL --include='*.md' '^tipo:' . | grep -v -e '^./README.md$' -e '^./CLAUDE.md$'
+grep -rL --include='*.md' '^tipo:' . | command grep -vE '^(\./)?(README|CLAUDE)\.md$'
 # (d) numeração de ADR duplicada
 ls "02 - ADRs" | grep -oE '^ADR-[0-9]{3}' | sort | uniq -d
 ```
