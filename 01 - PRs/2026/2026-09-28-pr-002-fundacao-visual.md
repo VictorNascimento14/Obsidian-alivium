@@ -7,7 +7,7 @@ pr: 2
 url: https://github.com/VictorNascimento14/Alivium/pull/2
 branch: ui/fundacao-visual
 tags: [pr, frontend, design]
-status: aberto
+status: merged
 ---
 
 # PR #2 — ui(fundacao): instalar a fundação do sistema vidro-orgânico
