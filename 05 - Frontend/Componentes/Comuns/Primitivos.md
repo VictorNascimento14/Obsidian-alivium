@@ -26,7 +26,7 @@ Os blocos de interface de `src/ui/base/`, vindos do kit vidro-orgânico. Base: [
 | `TextField` | campo em pílula com ícone, dica, erro, sucesso |
 | `Modal` | cortina + vidro forte em portal; Escape e clique fora fecham |
 | `Dropdown` | painel que desdobra/dobra, montado quando fechado (`inert`) |
-| `Glyph` | ícones próprios, traçado 2.5 |
+| `Glyph` | ícones próprios, traçado 2.5 — o Alivium acrescentou `home`, `book`, `compass`, `pen`, `heart`, `leaf` |
 | `Avatar` | iniciais com cor derivada do nome |
 | `Reveal` | entrada para o que não é cartão |
 | `Calendar` | calendário mensal com dias marcados |
@@ -34,3 +34,4 @@ Os blocos de interface de `src/ui/base/`, vindos do kit vidro-orgânico. Base: [
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-003-primitivos]] — primitivos instalados.
+- [[2026-09-28-pr-004-icones]] — seis ícones de navegação no `Glyph`.
