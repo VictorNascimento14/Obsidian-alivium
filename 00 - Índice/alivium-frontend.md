@@ -17,6 +17,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[Biblioteca]] — `/conteudos`
 - [[Leitura]] — `/conteudos/:id`
 - [[Salvos]] — `/salvos`
+- [[Jornadas]] — `/jornadas`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
@@ -26,6 +27,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[CheckInCard]] — check-in de humor e dor
 - [[ConteudoCard]] — cartão de conteúdo
 - [[AvisoApoio]] — CVV 188 / SAMU 192
+- [[JornadaCard]] — cartão de jornada
 
 ## Fluxos
 - [[entrada-e-sessao]] — do `/entrar` ao Início
