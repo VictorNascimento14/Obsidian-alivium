@@ -21,6 +21,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[JornadaDetalhe]] — `/jornadas/:id`
 - [[Diario]] — `/diario`
 - [[Progresso]] — `/progresso`
+- [[Perfil]] — `/perfil`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
