@@ -24,3 +24,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #12 | [[2026-09-28-pr-012-inicio-checkin]] — feat(inicio): saudação personalizada e check-in de humor e dor |
 | #13 | [[2026-09-28-pr-013-biblioteca]] — feat(conteudos): biblioteca por categoria com busca e filtro por tipo |
 | #14 | [[2026-09-28-pr-014-leitura]] — feat(conteudos): leitura com progresso, conclusão e relacionados |
+| #15 | [[2026-09-28-pr-015-salvos]] — feat(conteudos): salvar conteúdos e página de salvos |

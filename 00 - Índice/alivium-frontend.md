@@ -16,6 +16,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[Inicio]] — `/`
 - [[Biblioteca]] — `/conteudos`
 - [[Leitura]] — `/conteudos/:id`
+- [[Salvos]] — `/salvos`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
