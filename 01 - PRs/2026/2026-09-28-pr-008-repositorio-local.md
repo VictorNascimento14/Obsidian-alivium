@@ -7,7 +7,7 @@ pr: 8
 url: https://github.com/VictorNascimento14/Alivium/pull/8
 branch: feat/repositorio-local
 tags: [pr, frontend, dados]
-status: aberto
+status: merged
 ---
 
 # PR #8 — feat(dados): repositório local com persistência e testes
