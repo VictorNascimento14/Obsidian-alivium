@@ -7,7 +7,7 @@ pr: 10
 url: https://github.com/VictorNascimento14/Alivium/pull/10
 branch: feat/tela-cadastro
 tags: [pr, frontend, autenticacao]
-status: aberto
+status: merged
 ---
 
 # PR #10 — feat(autenticacao): tela de cadastro com validação e força da senha
