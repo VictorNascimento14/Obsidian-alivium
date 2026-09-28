@@ -1,7 +1,7 @@
 ---
 tipo: pendencia
 data: 2026-09-28
-status: aberta
+status: resolvida
 tags: [pendencia, design]
 ---
 
@@ -12,3 +12,5 @@ O cabeçalho do mês aparece como "Setembro De 2026". Visto em [[Progresso]] ([[
 Correção provável: trocar `capitalize` por `first-letter:uppercase` no `Calendar` (mesma armadilha
 resolvida no [[Diario]]). Vive em `src/ui/base/`, então precisa ser levada também ao kit
 vidro-orgânico.
+
+Resolvida em [[2026-09-28-pr-021-calendario-mes]].

@@ -36,3 +36,4 @@ Os blocos de interface de `src/ui/base/`, vindos do kit vidro-orgânico. Base: [
 - [[2026-09-28-pr-003-primitivos]] — primitivos instalados.
 - [[2026-09-28-pr-004-icones]] — seis ícones de navegação no `Glyph`.
 - [[2026-09-28-pr-011-icone-do-campo]] — ícone do `TextField` com `z-10` (não ficava visível).
+- [[2026-09-28-pr-021-calendario-mes]] — mês do `Calendar` com `first-letter:uppercase`.
