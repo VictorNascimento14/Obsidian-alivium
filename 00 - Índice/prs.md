@@ -29,3 +29,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #17 | [[2026-09-28-pr-017-jornada-detalhe]] — feat(jornadas): detalhe da jornada com etapas e próximo passo |
 | #18 | [[2026-09-28-pr-018-inicio-continuar]] — feat(inicio): continuar jornada e conteúdos recomendados para o dia |
 | #19 | [[2026-09-28-pr-019-diario]] — feat(diario): diário de reflexões com sugestões, edição e exclusão |
+| #20 | [[2026-09-28-pr-020-progresso]] — feat(progresso): painel com indicadores, humor e dias de cuidado |
