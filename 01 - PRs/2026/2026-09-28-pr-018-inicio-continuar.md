@@ -7,7 +7,7 @@ pr: 18
 url: https://github.com/VictorNascimento14/Alivium/pull/18
 branch: feat/inicio-continuar
 tags: [pr, frontend, inicio]
-status: aberto
+status: merged
 ---
 
 # PR #18 — feat(inicio): continuar jornada e conteúdos recomendados para o dia
