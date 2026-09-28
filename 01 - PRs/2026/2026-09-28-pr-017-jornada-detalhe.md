@@ -7,7 +7,7 @@ pr: 17
 url: https://github.com/VictorNascimento14/Alivium/pull/17
 branch: feat/jornada-detalhe
 tags: [pr, frontend, jornadas, progresso]
-status: aberto
+status: merged
 ---
 
 # PR #17 — feat(jornadas): detalhe da jornada com etapas e próximo passo
