@@ -35,3 +35,4 @@ Pílulas com `.press`; ativa em `bg-primary-900` com `shadow-nav-active`; cartõ
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-013-biblioteca]] — criada.
+- [[2026-09-28-pr-014-leitura]] — cartões viram links para a leitura.
