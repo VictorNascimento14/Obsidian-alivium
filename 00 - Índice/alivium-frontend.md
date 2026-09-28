@@ -15,6 +15,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
 - [[Primitivos]] — blocos de interface (`src/ui/base/`)
+- [[Casca]] — coluna, cabeçalho e barra do celular (`src/ui/shell/`, `src/navegacao.tsx`)
 
 ## Fluxos
 
