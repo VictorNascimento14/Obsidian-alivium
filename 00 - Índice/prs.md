@@ -26,3 +26,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #14 | [[2026-09-28-pr-014-leitura]] — feat(conteudos): leitura com progresso, conclusão e relacionados |
 | #15 | [[2026-09-28-pr-015-salvos]] — feat(conteudos): salvar conteúdos e página de salvos |
 | #16 | [[2026-09-28-pr-016-jornadas-lista]] — feat(jornadas): lista de jornadas com andamento |
+| #17 | [[2026-09-28-pr-017-jornada-detalhe]] — feat(jornadas): detalhe da jornada com etapas e próximo passo |
