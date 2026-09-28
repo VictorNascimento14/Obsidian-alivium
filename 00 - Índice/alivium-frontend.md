@@ -11,13 +11,16 @@ Stack: React 19 · Vite · TypeScript · Tailwind 3.4 · react-router-dom 7 · s
 vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 
 ## Páginas
+- [[Entrar]] — `/entrar`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
 - [[Primitivos]] — blocos de interface (`src/ui/base/`)
 - [[Casca]] — coluna, cabeçalho e barra do celular (`src/ui/shell/`, `src/navegacao.tsx`)
+- [[GuardasDeSessao]] — `ExigeSessao`, `SomenteVisitante`, `LayoutLogado`
 
 ## Fluxos
+- [[entrada-e-sessao]] — do `/entrar` ao Início
 
 ## Camada de dados
 - [[CamadaDeDados]] — tipos, sementes e repositório local (`src/dados/`)
