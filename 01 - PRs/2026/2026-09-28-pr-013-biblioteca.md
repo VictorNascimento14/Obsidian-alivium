@@ -7,7 +7,7 @@ pr: 13
 url: https://github.com/VictorNascimento14/Alivium/pull/13
 branch: feat/biblioteca
 tags: [pr, frontend, conteudos]
-status: aberto
+status: merged
 ---
 
 # PR #13 — feat(conteudos): biblioteca por categoria com busca e filtro por tipo
