@@ -35,3 +35,4 @@ páginas.
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-005-casca]] — casca instalada, com Início.
+- [[2026-09-28-pr-013-biblioteca]] — item Conteúdos na coluna e na barra do celular.
