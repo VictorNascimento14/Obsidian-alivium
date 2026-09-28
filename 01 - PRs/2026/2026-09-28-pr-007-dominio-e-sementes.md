@@ -7,7 +7,7 @@ pr: 7
 url: https://github.com/VictorNascimento14/Alivium/pull/7
 branch: feat/dominio-e-sementes
 tags: [pr, frontend, dados]
-status: aberto
+status: merged
 ---
 
 # PR #7 — feat(dados): tipos do domínio e conteúdo inicial
