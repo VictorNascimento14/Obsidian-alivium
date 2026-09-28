@@ -21,3 +21,4 @@ Cartão com o caminho para ajuda profissional: CVV 188 (24h, gratuito) e SAMU 19
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-014-leitura]] — criado.
+- [[2026-09-28-pr-019-diario]] — usado também no Diário.
