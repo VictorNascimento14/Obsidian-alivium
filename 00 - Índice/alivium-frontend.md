@@ -23,6 +23,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[Progresso]] — `/progresso`
 - [[Perfil]] — `/perfil`
 - [[PainelAdmin]] — `/admin`
+- [[AdminCategorias]] — `/admin/categorias`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
@@ -33,6 +34,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[ConteudoCard]] — cartão de conteúdo
 - [[AvisoApoio]] — CVV 188 / SAMU 192
 - [[JornadaCard]] — cartão de jornada
+- [[SeletoresDoCatalogo]] — tom e ícone
 
 ## Fluxos
 - [[entrada-e-sessao]] — do `/entrar` ao Início

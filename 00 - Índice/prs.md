@@ -33,3 +33,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #21 | [[2026-09-28-pr-021-calendario-mes]] — fix(ui): mês do calendário com só a primeira letra maiúscula |
 | #22 | [[2026-09-28-pr-022-perfil]] — feat(perfil): perfil, tema e controle dos próprios dados |
 | #23 | [[2026-09-28-pr-023-admin-painel]] — feat(admin): painel administrativo com métricas agregadas e guarda de papel |
+| #24 | [[2026-09-28-pr-024-admin-categorias]] — feat(admin): gerenciar categorias do catálogo |
