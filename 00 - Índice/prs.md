@@ -34,3 +34,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #22 | [[2026-09-28-pr-022-perfil]] — feat(perfil): perfil, tema e controle dos próprios dados |
 | #23 | [[2026-09-28-pr-023-admin-painel]] — feat(admin): painel administrativo com métricas agregadas e guarda de papel |
 | #24 | [[2026-09-28-pr-024-admin-categorias]] — feat(admin): gerenciar categorias do catálogo |
+| #25 | [[2026-09-28-pr-025-admin-conteudos]] — feat(admin): gerenciar conteúdos com editor e prévia ao vivo |
