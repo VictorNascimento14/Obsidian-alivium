@@ -38,3 +38,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #26 | [[2026-09-28-pr-026-admin-jornadas]] — feat(admin): gerenciar jornadas e etapas |
 | #27 | [[2026-09-28-pr-027-404-e-erro]] — feat(sistema): página não encontrada e tela de erro acolhedoras |
 | #28 | [[2026-09-28-pr-028-guia-respiracao]] — feat(conteudos): guia animado de respiração |
+| #29 | [[2026-09-28-pr-029-icone-e-manifesto]] — chore(pwa): ícone, manifesto e metadados do app |
