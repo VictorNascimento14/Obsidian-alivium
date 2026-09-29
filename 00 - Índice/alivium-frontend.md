@@ -25,6 +25,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[PainelAdmin]] — `/admin`
 - [[AdminCategorias]] — `/admin/categorias`
 - [[AdminConteudos]] — `/admin/conteudos`
+- [[AdminJornadas]] — `/admin/jornadas`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)

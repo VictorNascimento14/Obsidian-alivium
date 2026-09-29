@@ -35,3 +35,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #23 | [[2026-09-28-pr-023-admin-painel]] — feat(admin): painel administrativo com métricas agregadas e guarda de papel |
 | #24 | [[2026-09-28-pr-024-admin-categorias]] — feat(admin): gerenciar categorias do catálogo |
 | #25 | [[2026-09-28-pr-025-admin-conteudos]] — feat(admin): gerenciar conteúdos com editor e prévia ao vivo |
+| #26 | [[2026-09-28-pr-026-admin-jornadas]] — feat(admin): gerenciar jornadas e etapas |
