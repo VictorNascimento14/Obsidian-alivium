@@ -7,7 +7,7 @@ pr: 26
 url: https://github.com/VictorNascimento14/Alivium/pull/26
 branch: feat/admin-jornadas
 tags: [pr, frontend, admin, jornadas]
-status: aberto
+status: merged
 ---
 
 # PR #26 — feat(admin): gerenciar jornadas e etapas
