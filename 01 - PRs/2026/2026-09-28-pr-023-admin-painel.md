@@ -7,7 +7,7 @@ pr: 23
 url: https://github.com/VictorNascimento14/Alivium/pull/23
 branch: feat/admin-painel
 tags: [pr, frontend, admin]
-status: aberto
+status: merged
 ---
 
 # PR #23 — feat(admin): painel administrativo com métricas agregadas e guarda de papel
