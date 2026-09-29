@@ -10,3 +10,4 @@ tags: [indice, aprendizado]
 |---|---|
 | 2026-09-28 | [[2026-09-28-backdrop-filter-pinta-por-cima-do-icone]] |
 | 2026-09-28 | [[2026-09-28-foco-no-botao-de-sugestao]] |
+| 2026-09-28 | [[2026-09-28-outlet-aninhado-perde-o-contexto]] |

@@ -22,6 +22,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[Diario]] — `/diario`
 - [[Progresso]] — `/progresso`
 - [[Perfil]] — `/perfil`
+- [[PainelAdmin]] — `/admin`
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
