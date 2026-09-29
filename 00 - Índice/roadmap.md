@@ -6,9 +6,10 @@ tags: [indice, roadmap]
 
 # Roadmap
 
-## v1 — front-end completo (em andamento)
+## v1 — front-end completo ✅ (2026-09-28)
 
-Fatiado em PRs pequenos, um por funcionalidade: [[2026-09-28-plano-da-v1-do-frontend]].
+As sete funcionalidades de [[visao-de-produto]] entregues em 30 PRs pequenos:
+[[2026-09-28-plano-da-v1-do-frontend]].
 
 ## Depois da v1 — `<A DEFINIR>`
 
@@ -16,3 +17,7 @@ Fatiado em PRs pequenos, um por funcionalidade: [[2026-09-28-plano-da-v1-do-fron
   [[ADR-001-frontend-primeiro-com-dados-locais]]).
 - Notificações/lembretes.
 - Conteúdo em áudio e vídeo.
+
+## Pendências
+
+- [[2026-09-28-levar-correcoes-ao-kit]]

@@ -33,4 +33,7 @@ progresso e uma área administrativa que edita conteúdo — tudo isso pressupõ
 
 ## Implementado em
 
-TODO: linkar os PRs da camada de dados quando mergearem.
+- [[2026-09-28-pr-007-dominio-e-sementes]] — domínio e sementes
+- [[2026-09-28-pr-008-repositorio-local]] — repositório local e testes
+- [[2026-09-28-pr-009-sessao-e-entrar]] — sessão local e hash de senha
+- [[2026-09-28-pr-022-perfil]] — exportar e apagar os próprios dados

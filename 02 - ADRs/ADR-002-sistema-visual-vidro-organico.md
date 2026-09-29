@@ -26,3 +26,8 @@ incluindo animações e micro-interações.
 - Mudança de rampa em `src/ui/index.css` repinta o app inteiro — é a alavanca certa só para
   retonalizar a marca, nunca para uma tela.
 - Ícones novos de navegação são `path`s acrescentados ao `Glyph`, no mesmo traçado 2.5.
+
+## Implementado em
+
+- [[2026-09-28-pr-002-fundacao-visual]] · [[2026-09-28-pr-003-primitivos]] · [[2026-09-28-pr-004-icones]] · [[2026-09-28-pr-005-casca]]
+- Correções no kit feitas aqui: [[2026-09-28-pr-011-icone-do-campo]], [[2026-09-28-pr-021-calendario-mes]] — ver [[2026-09-28-levar-correcoes-ao-kit]].
