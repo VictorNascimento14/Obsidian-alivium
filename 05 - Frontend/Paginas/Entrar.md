@@ -31,3 +31,4 @@ cartão `rise`; erro com `fade-up`; atalhos `.press` + `.lift`.
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-009-sessao-e-entrar]] — tela criada.
+- [[2026-09-28-pr-022-perfil]] — mostra só as demonstrações que ainda existem.
