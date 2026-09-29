@@ -36,3 +36,4 @@ Toda mudança no repositório de código vira uma nota aqui. Mais recente embaix
 | #24 | [[2026-09-28-pr-024-admin-categorias]] — feat(admin): gerenciar categorias do catálogo |
 | #25 | [[2026-09-28-pr-025-admin-conteudos]] — feat(admin): gerenciar conteúdos com editor e prévia ao vivo |
 | #26 | [[2026-09-28-pr-026-admin-jornadas]] — feat(admin): gerenciar jornadas e etapas |
+| #27 | [[2026-09-28-pr-027-404-e-erro]] — feat(sistema): página não encontrada e tela de erro acolhedoras |

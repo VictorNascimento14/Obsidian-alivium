@@ -26,6 +26,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[AdminCategorias]] — `/admin/categorias`
 - [[AdminConteudos]] — `/admin/conteudos`
 - [[AdminJornadas]] — `/admin/jornadas`
+- [[TelasDeSistema]] — 404 e erro
 
 ## Componentes
 - [[SistemaVisual]] — fundação do vidro-orgânico (`src/ui/`)
