@@ -7,7 +7,7 @@ pr: 24
 url: https://github.com/VictorNascimento14/Alivium/pull/24
 branch: feat/admin-categorias
 tags: [pr, frontend, admin, conteudos]
-status: aberto
+status: merged
 ---
 
 # PR #24 — feat(admin): gerenciar categorias do catálogo
