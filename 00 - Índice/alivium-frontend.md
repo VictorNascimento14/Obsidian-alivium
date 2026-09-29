@@ -39,6 +39,7 @@ vidro-orgânico ([[ADR-002-sistema-visual-vidro-organico]]).
 - [[JornadaCard]] — cartão de jornada
 - [[SeletoresDoCatalogo]] — tom e ícone
 - [[CorpoDoConteudo]] — corpo do conteúdo (leitura e prévia)
+- [[GuiaDeRespiracao]] — prática guiada de respiração
 
 ## Fluxos
 - [[entrada-e-sessao]] — do `/entrar` ao Início
