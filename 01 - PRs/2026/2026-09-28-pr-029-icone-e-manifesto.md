@@ -7,7 +7,7 @@ pr: 29
 url: https://github.com/VictorNascimento14/Alivium/pull/29
 branch: chore/icone-e-manifesto
 tags: [pr, frontend, infra]
-status: aberto
+status: merged
 ---
 
 # PR #29 — chore(pwa): ícone, manifesto e metadados do app
