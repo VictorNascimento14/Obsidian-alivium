@@ -7,7 +7,7 @@ pr: 25
 url: https://github.com/VictorNascimento14/Alivium/pull/25
 branch: feat/admin-conteudos
 tags: [pr, frontend, admin, conteudos]
-status: aberto
+status: merged
 ---
 
 # PR #25 — feat(admin): gerenciar conteúdos com editor e prévia ao vivo
