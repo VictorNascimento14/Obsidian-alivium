@@ -39,3 +39,4 @@ páginas.
 - [[2026-09-28-pr-016-jornadas-lista]] — item Jornadas na coluna e na barra.
 - [[2026-09-28-pr-019-diario]] — item Diário na coluna e na barra.
 - [[2026-09-28-pr-020-progresso]] — itens Progresso; a barra do celular fica com 5 destinos.
+- [[2026-09-28-pr-023-admin-painel]] — grupo Administração só para admin (`gruposPara`).

@@ -19,6 +19,7 @@ Componentes de rota que decidem quem entra onde. Moram em `src/sessao/`, nunca n
 |---|---|
 | `ExigeSessao` | sem sessão → `/entrar`, com `state.de` = rota pedida |
 | `SomenteVisitante` | com sessão → `state.de` ou `/` |
+| `RotaAdmin` | rota de layout: sem papel `admin` → `/`; repassa o contexto do `Outlet` |
 | `LayoutLogado` | não é guarda: monta a coluna com a conta da sessão e o "Sair" |
 
 `useSessao()` devolve o `Usuario` da sessão ou `null`.
@@ -26,3 +27,4 @@ Componentes de rota que decidem quem entra onde. Moram em `src/sessao/`, nunca n
 ## Histórico de mudanças
 
 - [[2026-09-28-pr-009-sessao-e-entrar]] — guardas criadas.
+- [[2026-09-28-pr-023-admin-painel]] — `RotaAdmin`; grupos da coluna por papel.
