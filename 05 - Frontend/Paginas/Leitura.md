@@ -33,3 +33,4 @@ Barra de leitura no `toolbar` (gruda com o cabeçalho); ícone de concluído com
 - [[2026-09-28-pr-014-leitura]] — criada.
 - [[2026-09-28-pr-015-salvos]] — botão de coração (salvar).
 - [[2026-09-28-pr-025-admin-conteudos]] — corpo passa a usar [[CorpoDoConteudo]].
+- [[2026-09-28-pr-028-guia-respiracao]] — [[GuiaDeRespiracao]] nos conteúdos de respiração.
