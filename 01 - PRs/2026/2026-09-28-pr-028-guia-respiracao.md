@@ -7,7 +7,7 @@ pr: 28
 url: https://github.com/VictorNascimento14/Alivium/pull/28
 branch: feat/guia-respiracao
 tags: [pr, frontend, conteudos]
-status: aberto
+status: merged
 ---
 
 # PR #28 — feat(conteudos): guia animado de respiração
